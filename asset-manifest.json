@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sanjeev22004/Quick-tick/static/css/main.2e7a76fd.css",
+    "main.js": "/sanjeev22004/Quick-tick/static/js/main.84d0fdab.js",
+    "index.html": "/sanjeev22004/Quick-tick/index.html",
+    "main.2e7a76fd.css.map": "/sanjeev22004/Quick-tick/static/css/main.2e7a76fd.css.map",
+    "main.84d0fdab.js.map": "/sanjeev22004/Quick-tick/static/js/main.84d0fdab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e7a76fd.css",
+    "static/js/main.84d0fdab.js"
+  ]
+}
