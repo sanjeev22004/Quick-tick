@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/sanjeev22004/Quick-tick",
+  "homepage": "https://sanjeev22004.github.io/Quick-tick",
   "name": "quick-tick",
   "version": "0.1.0",
   "private": true,
@@ -16,14 +16,14 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-      "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
-  },
-  "eslintConfig": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build",
+  "start": "react-scripts start",
+  "build": "react-scripts build",
+  "test": "react-scripts test",
+  "eject": "react-scripts eject"
+},
+ "eslintConfig": {
     "extends": [
       "react-app",
       "react-app/jest"
