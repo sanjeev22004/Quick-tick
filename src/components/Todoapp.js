@@ -32,7 +32,7 @@ const Todoapp = () => {
 
     return (
         <div className={styles.container}>
-            <h1 className={styles.title}>Todo List</h1>
+            <h1 className={styles.title}>Quick Tick</h1>
             <Form addTodo={addTodo} todos={todos} />
             <Todolist todos={todos} deleteTodo={deleteTodo} checkTodo={checkTodo} />
         </div>
